@@ -1,7 +1,7 @@
 # EnCrYpT-DeCrYpT
 This is the first complete software written by me in C programming language during my B.Tech first semester Nov-Dec 2013 in Meerut Institute of Engineering and Technology, meerut-250005, Uttar Pradesh, India.
 
-Batch: CS-B (2013-2017)
+##### Batch: CS-B (2013-2017)
 
 ##### Developer: [Ravin Kumar](https://mr-ravin.github.io)
 
