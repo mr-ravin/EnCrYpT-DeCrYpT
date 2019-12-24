@@ -1,9 +1,15 @@
 # EnCrYpT-DeCrYpT
-This was my first complete software written in C programming during my B.Tech first semester Nov-Dec 2013.
+This is the first complete software written by me in C programming language during my B.Tech first semester Nov-Dec 2013 in Meerut Institute of Engineering and Technology, meerut-250005, Uttar Pradesh, India.
+
+Batch: CS-B (2013-2017)
 
 ##### Developer: [Ravin Kumar](https://mr-ravin.github.io)
 
 The EnCrYpT-DeCrYpT.exe file is complied on 32 bit windows operating system, using Turbo C.
+
+##### Acknowledgement:
+
+I would like to thanks Mr Dhiraj Goyal, who taught me C programming in the first semester of B.Tech, cleared tons of my doubts in C programming language, and guided me to became a better engineer in the later future.
 
 ##### Note: It does not encrypt for some specific palindromic keys. This software is also present in https://github.com/mr-ravin/MiniProjects 
 
