@@ -7,6 +7,8 @@ This is the first complete software written by me in C programming language duri
 
 The EnCrYpT-DeCrYpT.exe file is complied on 32 bit windows operating system, using Turbo C.
 
+![product image](https://github.com/mr-ravin/EnCrYpT-DeCrYpT/blob/master/encryptdecrypt.png)
+
 ##### Acknowledgement:
 
 I would like to thanks Mr Dhiraj Goyal, who taught me C programming in the first semester of B.Tech, cleared tons of my doubts in C programming language, and guided me to became a better engineer in the later future.
