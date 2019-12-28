@@ -1,5 +1,5 @@
 # EnCrYpT-DeCrYpT
-This is the first complete software written by me in C programming language during my B.Tech first semester Nov-Dec 2013 in Meerut Institute of Engineering and Technology, meerut-250005, Uttar Pradesh, India.
+This is the first complete software written by me in C programming language during my B.Tech first semester in Meerut Institute of Engineering and Technology, meerut-250005, Uttar Pradesh, India.
 
 ##### Batch: CS-B (2013-2017)
 
@@ -16,7 +16,7 @@ I would like to thanks Mr Dhiraj Goyal, who taught me C programming in the first
 ##### Note: It does not encrypt for some specific palindromic keys. This software is also present in https://github.com/mr-ravin/MiniProjects 
 
 ```python
-Copyright (c) 2013 Ravin Kumar
+Copyright (c) 2014 Ravin Kumar
 Website: https://mr-ravin.github.io
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation 
